@@ -23,9 +23,8 @@
 
 ## Professional Profile
 
-I design **secure, scalable, and governable solutions** across the Microsoft cloud ecosystem, translating complex requirements into architectures that are clear, resilient, and built for long-term value.
-
-My work sits at the intersection of **cloud architecture and applied AI**. I use prompt engineering and agentic patterns to simplify complex workflows, while keeping data protection and responsible information handling at the core of every solution.
+Projeto soluções seguras, escaláveis e com governança em todo o ecossistema de nuvem Microsoft, transformando requisitos complexos em arquiteturas claras, resilientes e desenvolvidas para gerar valor no longo prazo.
+Minha atuação está na interseção entre arquitetura de nuvem e inteligência artificial aplicada. Utilizo engenharia de prompts e padrões agênticos para simplificar fluxos de trabalho complexos, mantendo a proteção de dados e o tratamento responsável das informações no centro de cada solução.
 
 ## Areas of Focus
 
@@ -33,21 +32,21 @@ My work sits at the intersection of **cloud architecture and applied AI**. I use
   <tr>
     <td width="50%" valign="top">
       <strong>Solution Architecture</strong><br />
-      Designing maintainable architectures that align technology decisions with business outcomes.
+      Desenvolvimento de arquiteturas sustentáveis e de fácil manutenção, alinhando as decisões tecnológicas aos resultados de negócio.
     </td>
     <td width="50%" valign="top">
       <strong>Microsoft Cloud</strong><br />
-      Building on Azure and Microsoft 365 with security, governance, and operational clarity in mind.
+      Construção de soluções com Azure e Microsoft 365, priorizando segurança, governança e clareza operacional.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>Applied AI & Agentic Systems</strong><br />
-      Engineering prompts and agent-oriented workflows for practical, reliable automation.
+      Engenharia de prompts e fluxos de trabalho orientados por agentes para criar automações práticas e confiáveis.
     </td>
     <td width="50%" valign="top">
       <strong>Data Protection</strong><br />
-      Embedding privacy-aware thinking and responsible data handling into solution design.
+      Incorporação de princípios de privacidade e tratamento responsável de dados desde a concepção das soluções.
     </td>
   </tr>
 </table>
