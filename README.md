@@ -115,6 +115,14 @@ Certificações que demonstram uma trajetória desde os fundamentos do ecossiste
   <sub>Azure · Microsoft 365 · Claude Code · Cursor · GitHub · Microsoft Fabric · Microsoft Foundry</sub>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,git,terraform,ubuntu,vscode,windows&amp;theme=dark" height="48" alt="Docker, Cloudflare, Git, Terraform, Ubuntu, Visual Studio Code, and Windows" />
+</p>
+
+<p align="center">
+  <sub>Docker · Cloudflare · Git · Terraform · Ubuntu · Visual Studio Code · Windows</sub>
+</p>
+
 ## Let's Connect
 
 Tenho interesse em trocar experiências sobre arquitetura Microsoft Cloud, adoção prática de inteligência artificial, sistemas agênticos e proteção de dados.
