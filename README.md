@@ -24,6 +24,7 @@
 ## Professional Profile
 
 Projeto soluções seguras, escaláveis e com governança em todo o ecossistema de nuvem Microsoft, transformando requisitos complexos em arquiteturas claras, resilientes e desenvolvidas para gerar valor no longo prazo.
+
 Minha atuação está na interseção entre arquitetura de nuvem e inteligência artificial aplicada. Utilizo engenharia de prompts e padrões agênticos para simplificar fluxos de trabalho complexos, mantendo a proteção de dados e o tratamento responsável das informações no centro de cada solução.
 
 ## Areas of Focus
@@ -53,25 +54,39 @@ Minha atuação está na interseção entre arquitetura de nuvem e inteligência
 
 ## Microsoft Credentials
 
+Certificações que demonstram uma trajetória desde os fundamentos do ecossistema Microsoft até a administração e a arquitetura avançada de soluções Azure.
+
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/MS--900-Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="MS-900 certified" /><br />
-      <sub>Microsoft 365 Fundamentals</sub>
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/">
+        <img src="./assets/certifications/microsoft-certified-fundamentals.svg" width="120" alt="Microsoft Certified Fundamentals badge for MS-900" />
+      </a><br />
+      <strong>MS-900</strong><br />
+      <sub>Microsoft 365 Certified: Fundamentals</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/AZ--900-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-900 certified" /><br />
-      <sub>Azure Fundamentals</sub>
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/">
+        <img src="./assets/certifications/microsoft-certified-fundamentals.svg" width="120" alt="Microsoft Certified Fundamentals badge for AZ-900" />
+      </a><br />
+      <strong>AZ-900</strong><br />
+      <sub>Microsoft Certified: Azure Fundamentals</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/AZ--104-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-104 certified" /><br />
-      <sub>Azure Administrator</sub>
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/">
+        <img src="./assets/certifications/microsoft-certified-associate.svg" width="120" alt="Microsoft Certified Associate badge for AZ-104" />
+      </a><br />
+      <strong>AZ-104</strong><br />
+      <sub>Microsoft Certified: Azure Administrator Associate</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/AZ--305-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-305 certified" /><br />
-      <sub>Azure Solutions Architect</sub>
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/">
+        <img src="./assets/certifications/microsoft-certified-expert.svg" width="120" alt="Microsoft Certified Expert badge for AZ-305" />
+      </a><br />
+      <strong>AZ-305</strong><br />
+      <sub>Microsoft Certified: Azure Solutions Architect Expert</sub>
     </td>
   </tr>
 </table>
@@ -102,13 +117,13 @@ Minha atuação está na interseção entre arquitetura de nuvem e inteligência
 
 ## Let's Connect
 
-I'm always interested in exchanging ideas about Microsoft cloud architecture, practical AI adoption, agentic systems, and data protection.
+Tenho interesse em trocar experiências sobre arquitetura Microsoft Cloud, adoção prática de inteligência artificial, sistemas agênticos e proteção de dados.
 
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/emerson-amancio-383866162/)
-- [Explore my work on GitHub](https://github.com/emerson-amancio)
+- [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/emerson-amancio-383866162/)
+- [Conheça meu trabalho no GitHub](https://github.com/emerson-amancio)
 
 <div align="center">
 
-<sub>Designing with clarity. Automating with intent. Protecting data by default.</sub>
+<sub>Projetando com clareza. Automatizando com propósito. Protegendo dados desde a concepção.</sub>
 
 </div>
