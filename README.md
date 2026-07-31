@@ -81,13 +81,23 @@ Minha atuação está na interseção entre arquitetura de nuvem e inteligência
 ## Platforms & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Fabric" />
-  <img src="https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Foundry" />
+  <img src="https://skillicons.dev/icons?i=azure&amp;theme=dark" height="48" alt="Microsoft Azure" title="Microsoft Azure" />
+  &nbsp;
+  <img src="https://api.iconify.design/selfhst:microsoft-office.svg?width=48&amp;height=48" width="48" height="48" alt="Microsoft 365" title="Microsoft 365" />
+  &nbsp;
+  <img src="https://api.iconify.design/simple-icons:claude.svg?color=%23D97757&amp;width=48&amp;height=48" width="48" height="48" alt="Claude Code" title="Claude Code" />
+  &nbsp;
+  <img src="https://api.iconify.design/simple-icons:cursor.svg?color=%23737373&amp;width=48&amp;height=48" width="48" height="48" alt="Cursor" title="Cursor" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" height="48" alt="GitHub" title="GitHub" />
+  &nbsp;
+  <img src="./assets/icons/microsoft-fabric.svg" width="48" height="48" alt="Microsoft Fabric" title="Microsoft Fabric" />
+  &nbsp;
+  <img src="./assets/icons/microsoft-foundry.svg" width="48" height="48" alt="Microsoft Foundry" title="Microsoft Foundry" />
+</p>
+
+<p align="center">
+  <sub>Azure · Microsoft 365 · Claude Code · Cursor · GitHub · Microsoft Fabric · Microsoft Foundry</sub>
 </p>
 
 ## Let's Connect
